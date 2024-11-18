@@ -139,13 +139,15 @@ The script processes crew data sourced from [INARA](https://inara.cz/starfield/c
 | Sahima Ka'dic     | Aneutronic Fusion, EM Weapon Systems          | Kavnyk          | Va'ruun'kai   |
 
 
-Feel free to copy and paste these tables into your `README.md` file. They will display your crew selections in a clear and organized manner.
-
-
 ## Credits
 
 - **Data Source**: Crew data was sourced from [INARA](https://inara.cz/starfield/companions/).
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE.txt).
+
+**Disclaimer**: 
+Starfield is a product of ZeniMax Media Inc. All game data, assets, and intellectual property are the property of ZeniMax Media Inc.
+The crew data used in this project was sourced from [INARA](https://inara.cz/). All INARA data is the property of its respective owners.
+This project is not affiliated with or endorsed by ZeniMax Media Inc. or INARA.
