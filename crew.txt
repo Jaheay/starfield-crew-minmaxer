@@ -1,0 +1,230 @@
+Andreja
+The Lodge (Jemison, Alpha Centauri)
+
+Stealth︎4
+Particle Beams︎3
+Energy Weapon Systems︎2
+Theft︎1
+Barrett
+The Lodge (Jemison, Alpha Centauri)
+
+Starship Engineering︎4
+Particle Beam Weapon Systems︎3
+Robotics︎2
+Gastronomy︎1
+Sam Coe
+The Lodge (Jemison, Alpha Centauri)
+
+Piloting︎4
+Rifle Certification︎3
+Payloads︎2
+Geology︎1
+Sarah Morgan
+The Lodge (Jemison, Alpha Centauri)
+
+Astrodynamics︎4
+Lasers︎3
+Leadership︎2
+Botany︎1
+VASCO
+The Lodge (Jemison, Alpha Centauri)
+
+Shield Systems︎2
+EM Weapon Systems︎1
+Aneutronic Fusion︎1
+Adoring Fan
+Spaceport (Jemison, Alpha Centauri)
+
+Scavenging︎2
+Weight Lifting︎2
+Concealment︎1
+Amelia Earhart
+Crucible (Charybdis III, Charybdis)
+
+Piloting︎2
+Rifle Certification︎2
+Andromeda Kepler
+Broken Spear (Mars, Sol)
+
+Outpost Engineering︎2
+Aneutronic Fusion︎1
+Piloting︎1
+Autumn MacMillan
+Red Mile (Porrima III, Porrima)
+
+Pistol Certification︎2
+Sharpshooting︎1
+Botany︎1
+Betty Howser
+Heinlein I (Heinlein)
+
+Demolitions︎3
+Missile Weapon Systems︎1
+Dani Garcia
+Euphorika (Volii Alpha, Volii)
+
+Robotics︎2
+Energy Weapon Systems︎1
+Chemistry︎1
+Erick Von Price
+Jane's Goods (Mars, Sol)
+
+Astrodynamics︎2
+Payloads︎1
+Ezekiel
+Aggie's (Akila, Cheyenne)
+
+Energy Weapon Dissipation︎2
+Shield Systems︎1
+Scavenging︎1
+Gideon Aker
+The Viewport (Jemison, Alpha Centauri)
+
+Missile Weapon Systems︎2
+Ballistic Weapon Systems︎2
+Hadrian
+Red Devils HQ (Mars, Sol)
+
+Pain Tolerance︎2
+Energy Weapon Dissipation︎1
+Xenosociology︎1
+Heller
+Dalvik (Narion)
+
+Outpost Engineering︎3
+Geology︎1
+Jessamine Griffin
+The Key (Suvorov, Kryx)
+
+Ballistic Weapon Systems︎2
+Concealment︎1
+Theft︎1
+Lin
+Vectera (Narion)
+
+Outpost Management︎3
+Demolitions︎1
+Lyle Brewer
+Aggie's (Akila, Cheyenne)
+
+Shotgun Certification︎2
+Particle Beams︎1
+Xenosociology︎1
+Marika Boros
+The Viewport (Jemison, Alpha Centauri)
+
+Ballistics︎2
+Particle Beam Weapon Systems︎1
+Shotgun Certification︎1
+Mathis Castillo
+The Key (Suvorov, Kryx)
+
+Incapacitation︎2
+Ballistics︎1
+Weight Lifting︎1
+Mickey Caviar
+Trade Tower: Astral Lounge (Volii Alpha, Volii)
+
+Wellness︎2
+Incapacitation︎1
+Gastronomy︎1
+Moara Otero
+Broken Spear (Mars, Sol)
+
+Marksmanship︎2
+EM Weapon Systems︎2
+Omari Hassan
+The Hitching Post (Akila, Cheyenne)
+
+Shield Systems︎3
+Starship Engineering︎1
+Rafael Aguerro
+The Viewport (Jemison, Alpha Centauri)
+
+Starship Engineering︎2
+Outpost Engineering︎1
+Outpost Management︎1
+Rosie Tannehill
+The Hitching Post (Akila, Cheyenne)
+
+Wellness︎3
+Medicine︎1
+Sahima Ka'dic
+House Ka'dic (Va'ruun'kai, Kavnyk)
+
+EM Weapon Systems︎2
+Sniper Certification︎1
+Aneutronic Fusion︎1
+Simeon Bankowski
+The Viewport (Jemison, Alpha Centauri)
+
+Sniper Certification︎1
+Marksmanship︎1
+Sharpshooting︎1
+Sophia Grace
+Madame Sauvage's Place (Volii Alpha, Volii)
+
+Stealth︎3
+Lasers︎1
+Tane Salavea
+Herald's Rest (Va'ruun'kai, Kavnyk)
+
+Stealth︎2
+Pistol Certification︎1
+Payloads︎1
+Astrodynamics Specialist
+Multiple locations
+
+Astrodynamics︎1
+Ballistic Weapons Specialist
+Multiple locations
+
+Ballistic Weapon Systems︎1
+Damage Control Specialist
+Multiple locations
+
+Starship Engineering︎1
+Defensive Systems Specialist
+Multiple locations
+
+Shield Systems︎1
+EM Weapons Specialist
+Multiple locations
+
+EM Weapon Systems︎1
+Energy Weapons Specialist
+Multiple locations
+
+Energy Weapon Systems︎1
+Fusion Systems Specialist
+Multiple locations
+
+Aneutronic Fusion︎1
+Missile Weapons Specialist
+Multiple locations
+
+Missile Weapon Systems︎1
+Outpost Engineering Specialist
+Multiple locations
+
+Outpost Engineering︎1
+Outpost Management Specialist
+Multiple locations
+
+Outpost Management︎1
+Outpost Security Chief
+Multiple locations
+
+Pistol Certification︎1
+Particle Weapons Specialist
+Multiple locations
+
+Particle Beam Weapon Systems︎1
+Payload Specialist
+Multiple locations
+
+Payloads︎1
+Propulsion Specialist
+Multiple locations
+
+Piloting︎1
