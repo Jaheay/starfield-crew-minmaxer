@@ -1,0 +1,10 @@
+Name,Location,System,Planet,Reason,Crew Value,Aneutronic Fusion,Astrodynamics,Ballistic Weapon Systems,Ballistics,Botany,Chemistry,Concealment,Demolitions,EM Weapon Systems,Energy Weapon Dissipation,Energy Weapon Systems,Gastronomy,Geology,Incapacitation,Lasers,Leadership,Marksmanship,Medicine,Missile Weapon Systems,Outpost Engineering,Outpost Management,Pain Tolerance,Particle Beam Weapon Systems,Particle Beams,Payloads,Piloting,Pistol Certification,Rifle Certification,Robotics,Scavenging,Sharpshooting,Shield Systems,Shotgun Certification,Sniper Certification,Starship Engineering,Stealth,Theft,Weight Lifting,Wellness,Xenosociology
+Andreja,The Lodge,Alpha Centauri,Jemison,Energy Weapon Systems,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0
+Barrett,The Lodge,Alpha Centauri,Jemison,"Starship Engineering, Particle Beam Weapon Systems",6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,4,0,0,0,0,0
+Sam Coe,The Lodge,Alpha Centauri,Jemison,"Piloting, Payloads",6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Sarah Morgan,The Lodge,Alpha Centauri,Jemison,"Astrodynamics, Leadership",6,0,4,0,0,1,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VASCO,The Lodge,Alpha Centauri,Jemison,Aneutronic Fusion,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gideon Aker,The Viewport,Alpha Centauri,Jemison,"Ballistic Weapon Systems, Missile Weapon Systems",4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jessamine Griffin,The Key,Kryx,Suvorov,Ballistic Weapon Systems,4,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Omari Hassan,The Hitching Post,Cheyenne,Akila,Shield Systems,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Sahima Ka'dic,House Ka'dic,Kavnyk,Va'ruun'kai,"Aneutronic Fusion, EM Weapon Systems",5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0

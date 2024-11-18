@@ -1,12 +1,22 @@
 import pandas
 pandas.options.mode.chained_assignment = None
+
+
+PARSED_CREW_PATH = 'data/parsed_crew.csv'
+FINAL_CREW_PATH = 'final_crew.csv'
+ALL_CREW_PATH = 'all_crew_members.csv'
+
 # Step 1: Load the skills CSV into a DataFrame
-crew = pandas.read_csv('crew.csv')
+crew = pandas.read_csv(PARSED_CREW_PATH)
 
 # Define killed or banned characters
+# EDIT THIS WITH THE CREW MEMBERS WHO ARE DEAD
 #dead_characters = ['Sarah Morgan']
 #dead_characters = ["Mathis Castillo", "Jessamine Griffin", "Sarah Morgan"]
-dead_characters = ["Barrett", "Sam Coe", "Sarah Morgan", "VASCO", "Rafael Aguerro"]
+#dead_characters = ["Barrett", "Sam Coe", "Sarah Morgan", "VASCO", "Rafael Aguerro", "Andreja"]
+dead_characters = []
+
+
 # Step 2: Define skill categories
 ship_skills = [
     'Astrodynamics', 
@@ -18,12 +28,13 @@ ship_skills = [
     'Starship Engineering',
 ]
 
+# EDIT THIS WITH THE WEAPONS YOU WILL USE. 
 weapon_skills = [
-#    'Ballistic Weapon Systems',    
-#    'Missile Weapon Systems', 
+    'Ballistic Weapon Systems',    
+    'Missile Weapon Systems', 
     'Particle Beam Weapon Systems', 
-#    'Energy Weapon Systems', 
-#    'EM Weapon Systems',
+    'Energy Weapon Systems', 
+    'EM Weapon Systems',
 ]
 
 # Combine the skill categories for filtering
@@ -101,6 +112,6 @@ desired_order = ['Name', 'Location', 'System', 'Planet', 'Reason', 'Crew Value']
 crew = crew[desired_order]
 final_crew = final_crew[desired_order]
 
-crew.to_csv('all_crew.csv', index=False)
-final_crew.to_csv('fin_crew.csv', index=False)
+crew.to_csv(ALL_CREW_PATH, index=False)
+final_crew.to_csv(FINAL_CREW_PATH, index=False)
 print(final_crew[['Name', 'Reason', 'System', 'Planet']].to_string(index=False))

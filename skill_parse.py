@@ -2,8 +2,11 @@ import re
 import string
 import pandas
 
+RAW_CREW_PATH = 'data/raw_crew.txt'
+PARSED_CREW_PATH = 'data/parsed_crew.csv'
+
 # Load data from skills.txt
-with open('crew.txt', 'r') as file:
+with open(RAW_CREW_PATH, 'r') as file:
     data = file.read()
 
 # Remove non-standard characters
@@ -109,5 +112,5 @@ records_table = pandas.DataFrame(data, columns=['Name', 'Location', 'System', 'P
 records_table.fillna(0, inplace=True)
 
 # Export DataFrame to CSV
-records_table.to_csv('crew.csv', index=False)
+records_table.to_csv(PARSED_CREW_PATH, index=False)
 
